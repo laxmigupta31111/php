@@ -77,4 +77,21 @@
 ## ▶️  Show Page
 <p align="center"> <img src="images/show.png" width="45%"> </p>
 
+-----------------------------------------------------------------
 ## <p align="center"> Q3 </p>
+
+ ## ▶️ Insert Page
+<p align="center"> <img src="images/insertQ3.png" width="45%"> </p>
+<p align="center"> <img src="images/insertQ3_db.png" width="45%"> </p>
+----------------------------------------------------------
+
+ ## ▶️ Retrieve Page
+<p align="center"> <img src="images/retrieve.png" width="45%"> </p>
+----------------------------------------------------------------
+
+## <p align="center"> Q4 </p>
+ ## ▶️ Register Page
+<p align="center"> <img src="images/regi.png" width="45%"> </p>
+<p align="center"> <img src="images/regi_Q4_error.png" width="45%"> </p>
+<p align="center"> <img src="images/regi_Q4_db.png" width="45%"> </p>
+
