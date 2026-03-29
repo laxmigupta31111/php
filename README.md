@@ -43,3 +43,19 @@
  ```sql
    create database employee_db;   
    ```
+
+   ### 3. use Database
+ 
+ ```sql
+   use employee_db;   
+   ```
+   ### 4. Create Table
+ 
+ ```sql
+   create table emp_register(name varchar(30),job_title(30),salary double);
+   ```
+
+   ## ▶️ 4. Insert Page
+<p align="center"> <img src="images/insert.png" width="45%"> </p>
+
+![alt text](image.png)
