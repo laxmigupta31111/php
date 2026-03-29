@@ -54,26 +54,24 @@
  ```sql
    create table emp_register(name varchar(30),job_title(30),salary double);
    ```
+   -----------------------------------------------------------
 ## <p align="center"> Q1&2 </p>
 
    ## ▶️ Insert Page
 <p align="center"> <img src="images/insert.png" width="45%"> </p>
 <p align="center"> <img src="images/insertdb.png" width="45%"> </p>
 
-------------------------------------------------------------
+
 
  ## ▶️ Update Page
 <p align="center"> <img src="images/update.png" width="45%"> </p>
 <p align="center"> <img src="images/update_db.png" width="45%"> </p>
 
 
------------------------------------------------------------------------
-
  ## ▶️ Delete Page
 <p align="center"> <img src="images/delete.png" width="45%"> </p>
 <p align="center"> <img src="images/delete_db.png" width="45%"> </p>
 
------------------------------------------------------------------------
 
 ## ▶️  Show Page
 <p align="center"> <img src="images/show.png" width="45%"> </p>
@@ -85,7 +83,6 @@
 <p align="center"> <img src="images/insertQ3.png" width="45%"> </p>
 <p align="center"> <img src="images/insertQ3_db.png" width="45%"> </p>
 
-----------------------------------------------------------
 
  ## ▶️ Retrieve Page
 <p align="center"> <img src="images/retrieve.png" width="45%"> </p>
