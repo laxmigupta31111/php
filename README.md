@@ -57,5 +57,13 @@
 
    ## ▶️ 4. Insert Page
 <p align="center"> <img src="images/insert.png" width="45%"> </p>
+<p align="center"> <img src="images/insertdb.png" width="45%"> </p>
+![alt text](image.png)
+![alt text](image.png)
+
+
+ ## ▶️ 4. Update Page
+<p align="center"> <img src="images/insert.png" width="45%"> </p>
 
 ![alt text](image.png)
+
